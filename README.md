@@ -3,7 +3,9 @@ A proof of concept application to connect arduino (sensor controls) to unity 3d.
 
 Using this example code found at: http://answers.unity3d.com/questions/179311/unity-to-arduino.html
 
-The aim of this project is to send values from an Arduino board back to Unity3D - to allow for an non-traditional way of controlling an application (e.g. via ultra sound / peizo sensors).
+Project aim: Send values from an Arduino board back to Unity3D - allowing for non-traditional ways to control applications (e.g. via ultra sound / peizo sensors).
+
+The example below usese the serial port as a way of communication - however, bluetooth maybe used.
 
 Arduino: 
 
