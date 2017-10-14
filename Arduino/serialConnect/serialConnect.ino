@@ -3,22 +3,26 @@ void setup() {
 }
  
 void loop() {
-  int val = 2;
- 
-  //Sending value
-  Serial.write(val);
-  delay(1000);
- 
-  //Receiving value
-  if (Serial.available() > 0) {
-    
-    // read the incoming byte:
-    incomingByte = Serial.read();
+
+  Pubnub.begin("demo", "demo");
   
-    // say what you got:
-    Serial.print("I received: ");
-    Serial.println(incomingByte, DEC);
-    
+//  int val = 2;
+// 
+//  //Sending value
+//  Serial.write(val);
+//  Serial.println(val);
+//  delay(1000);
+// 
+//  //Receiving value
+//  if (Serial.available() > 0) {
+//    
+//    // read the incoming byte:
+//    int incomingByte = Serial.read();
+//  
+//    // say what you got:
+//    Serial.print("I received: ");
+//    Serial.println(incomingByte, DEC);
+//    
   }
  
  }
