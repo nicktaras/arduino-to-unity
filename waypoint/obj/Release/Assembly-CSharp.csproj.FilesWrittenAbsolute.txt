@@ -1,0 +1,17 @@
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEditor.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.Analytics.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.PlaymodeTestsRunner.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.Networking.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.UI.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.HoloLens.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/UnityEngine.VR.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Mono.Cecil.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Unity.SerializationLogic.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Unity.DataContract.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/ICSharpCode.NRefactory.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Unity.UNetWeaver.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Unity.UNetWeaver.dll.mdb
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Unity.CecilTools.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Mono.Cecil.Pdb.dll
+/Users/nicktaras/Documents/nicks stuff/unity/RACE_AI/Temp/bin/Release/Mono.Cecil.Mdb.dll

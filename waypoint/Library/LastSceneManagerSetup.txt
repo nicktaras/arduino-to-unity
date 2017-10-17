@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RACE_AI_SCENE.unity
+  isLoaded: 1
+  isActive: 1
